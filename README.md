@@ -1,13 +1,16 @@
-# Tp_Genie_Logiciel
-# GL 2025/2026 -- TP N°1
+def afficher_equipe_projet():
+    """
+    Affiche le tableau des rôles de l'équipe du projet.
+    """
+    print("+----------------------+------------------+")
+    print("| Rôle                 | Nom de l'étudiant|")
+    print("+----------------------+------------------+")
+    print("| Chef de Projet       | Samy             |")
+    print("| Architecte           |                  |")
+    print("| Développeur          |                  |")
+    print("| Responsable Qualité  |                  |")
+    print("+----------------------+------------------+")
 
-## Pratiques et outils du développement logiciel collaboratif
 
-## Équipe du Projet
-
-  Rôle                  Nom de l'étudiant
-  --------------------- -------------------
-  Chef de Projet        Boudiaf Samy
-  Architecte            Boudiaf Mohamed
-  Développeur           djebiri mohamed idris
-  Responsable Qualité   Chahour Manel
+if __name__ == "__main__":
+    afficher_equipe_projet()
