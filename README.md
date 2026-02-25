@@ -2,7 +2,7 @@
 
 | Rôle                | Nom de l'étudiant |
 |---------------------|------------------|
-| Chef de Projet      | Samy             |
-| Architecte          | moh              |
-| Développeur         |                  |
-| Responsable Qualité |                  |
+| Chef de Projet      |Boudiaf Samy      |
+| Architecte          | Boudiaf Mohamed  |
+| Développeur         | mohamed idris    |
+| Responsable Qualité |  Manel Chahour   |
